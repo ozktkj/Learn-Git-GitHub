@@ -12,6 +12,10 @@ git init
 ```bash
 git config --local user.name "自分の名前"
 git config --local user.email "自分のemail"
+```
+
+## config確認
+```
 git config -l
 ```
 表示の最終まで来たら'q'で終了
